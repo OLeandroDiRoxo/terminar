@@ -1,0 +1,56 @@
+
+
+body {
+    color: whitesmoke;
+    background: rgb(0, 0, 0);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  font-weight: 400;
+    font-style: normal;
+
+
+
+}
+header {
+    border-bottom: solid 3px whitesmoke;
+    padding: 30px;
+      font-size: 80px;
+      font-family: "Chakra Petch", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    
+
+}
+
+
+
+section{
+
+background:rgb(100, 35, 10);
+padding-bottom: 50px;
+padding-top: 50px;
+display:flex;
+justify-content: center;
+
+font-family: "Chakra Petch", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+
+}
+.chamada-texto{
+    margin: right 5%;
+}
+
+h1{
+font-size: 50px;
+
+
+}
+
+p{
+
+font-size: 30px;
+
+}
